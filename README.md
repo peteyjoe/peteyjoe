@@ -3,7 +3,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -16,9 +15,6 @@ Peter is a 16 year old full-stack web developer and amateur python programmer
 * Crappy Old Laptop
 * Lots of Mountain Dew
 * StackOverflow and YouTube Tutorials
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
 
 ## Features
 List of features ready and TODOs for future development
