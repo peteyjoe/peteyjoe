@@ -8,7 +8,7 @@
 * [Contact](#contact)
 
 ## General info
-Peter is a 16 year old full-stack web developer who also likes to dabble in other fields in programming
+Peter is a 17-year-old cybersecurity student and former web developer who also likes to dabble in other fields of technology
 
 ## Technologies
 * ~~Crappy Old Laptop~~ GOT SOME MONEY AND FINALLY BOUGHT A PRETTY GOOD LAPTOP FOR $500 LET'S GOOOO!
@@ -18,19 +18,18 @@ Peter is a 16 year old full-stack web developer who also likes to dabble in othe
 ## Features
 List of features ready and TODOs for future development
 * Good with HTML, CSS, JS, React.js, and Node.js
-* Good with Linux and OK with Bash Scripting
-* Decent with Python
-* Knows how to use a computer and set up a development enviroment
-* Can look up how to solve problems on StackOverflow
+* Good with Python, Linux, and VirtualBox
+* OK with Bash Scripting and Wireshark
+* Knows how to use a computer
+* Can look up how to solve problems on the internet
 
 To-do list:
-* Learn basic computer science principles
-* Learn and use actual algorithms instead of copying crap from the internet
+* Learn lots of stuff about cybersecurity and computer science
 * Learn C/C++
-* Go to college
+* Finish College
 
 ## Status
 The Petey Joe project is currently in development and will never be finished because life is a journey and `GET https://dumbquotes.com/inspire2.json 404 NOT FOUND`
 
 ## Contact
-Created by [@peteyjoe](https://www.peteyjoe.com/) - ~~feel free to contact me!~~ Hold up on the contact because I'm switching E-mails Also don't go to my website yet because I forgot to renew my SSL certificate...
+Created by [@peteyjoe](https://www.peteyjoe.com/) - feel free to contact me!
